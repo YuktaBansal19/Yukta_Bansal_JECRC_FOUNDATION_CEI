@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain>=0.1.14
+langchain-community>=0.0.10
+langchain-google-genai
+pypdf
+faiss-cpu>=1.7.4
+python-pptx
+pillow
+pytesseract
